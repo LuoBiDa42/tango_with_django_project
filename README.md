@@ -23,3 +23,6 @@
 ## **Step 4** ：Run
 >  python manage.py runserver  
 
+
+Open the browser: http://127.0.0.1:8000/
+
